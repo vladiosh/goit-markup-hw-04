@@ -465,7 +465,7 @@ body {
   height: 92px;
 }
 
-.clients-item::last-child {
+.clients-item:last-child {
   margin-right: 0px;
 }
 .clients-link {
